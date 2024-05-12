@@ -1,0 +1,17 @@
+
+
+Tabla: residuo Retorno: int
+valor: a tipo: string
+valor: numw tipo: int
+valor: num tipo: int
+valor: letra tipo: char
+
+
+Tabla: main Retorno: int
+valor: miBool tipo: bool
+valor: temp tipo: int
+valor: numero tipo: int
+valor: miString tipo: string
+
+
+Tabla: residuo2 Retorno: int
